@@ -1,7 +1,7 @@
 /**
  * Code Unit 2
  */
-package com.cddstudio.java;
+package com.cddstudio.java.basic;
 
 public class Unit2 {
 
