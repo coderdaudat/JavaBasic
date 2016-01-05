@@ -178,11 +178,11 @@ public class Unit2 {
 		 */
 		System.out.println("XOR bit a ^ b = " + c);
 		
-		c = a >> 1; //Dịch sang phải 2 bit
+		c = a >> 1; //Dịch sang phải 1 bit
 		/**
 		 * a = 5 (Biểu diễn nhị phân là : 0011)
-		 * Dịch sang phải 1 bit thành 0010 (2)
-		 * Dịch sang phải 2 bit thành 0001 (1)
+		 * Dịch sang phải 1 bit thành 0001 (2)
+		 * Dịch sang phải 2 bit thành 0000 (1)
 		 * 
 		 * */
 		System.out.println("Biến a dịch sang phải 1 bit có giá trị = " + c);
